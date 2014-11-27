@@ -1,4 +1,4 @@
 SwiftQRCodeWrapper
 ==================
 
-Complete Wrapper for the ABAddressBook C-Framework for iOS, written in swift to be typesafe
+Complete wrapper for the ABAddressBook C-Framework for iOS, written in Swift to be typesafe and convenient
